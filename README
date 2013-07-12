@@ -16,3 +16,7 @@ New-EagerZeroHardDisk.ps1 - Contains a PowerShell function called
                             Afterwards, you can view the help by typing:
                              PS C:\> help New-EagerZeroHardDisk -Full
 
+
+Replace-VM-RDM.ps1		 -	Contains a powershell function called
+							Replace-VM-RDM which enables you to replace
+							RDM's on a VM.
