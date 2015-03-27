@@ -20,3 +20,7 @@ New-EagerZeroHardDisk.ps1 - Contains a PowerShell function called
 Replace-VM-RDM.ps1		 -	Contains a powershell function called
 							Replace-VM-RDM which enables you to replace
 							RDM's on a VM.
+							
+							
+Install_Certs.ps1		 -	Contain a script to setup VMware vCenter Appliance
+							Will Setup VC, Request and Install Certs from a CA.
